@@ -7,8 +7,8 @@
     "home_page_url": "https://abohp.us.kg",
     "items": [
         {
-            "id": "https://abohp.us.kg/2025/02/10/%E6%B5%8B%E8%AF%95/",
-            "url": "https://abohp.us.kg/2025/02/10/%E6%B5%8B%E8%AF%95/",
+            "id": "https://abohp.us.kg/2025/02/10/daily/%E6%B5%8B%E8%AF%95/",
+            "url": "https://abohp.us.kg/2025/02/10/daily/%E6%B5%8B%E8%AF%95/",
             "title": "测试",
             "date_published": "2025-02-10T09:03:08.000Z",
             "content_html": "<p>测试</p>\n",
@@ -17,12 +17,13 @@
             ]
         },
         {
-            "id": "https://abohp.us.kg/2025/02/10/%E5%A5%BD%E8%80%B6%EF%BC%8C%E6%9C%89blog%E4%BA%86/",
-            "url": "https://abohp.us.kg/2025/02/10/%E5%A5%BD%E8%80%B6%EF%BC%8C%E6%9C%89blog%E4%BA%86/",
+            "id": "https://abohp.us.kg/2025/02/10/daily/%E5%A5%BD%E8%80%B6%EF%BC%8C%E6%9C%89blog%E4%BA%86/",
+            "url": "https://abohp.us.kg/2025/02/10/daily/%E5%A5%BD%E8%80%B6%EF%BC%8C%E6%9C%89blog%E4%BA%86/",
             "title": "好耶，有blog了",
             "date_published": "2025-02-10T09:01:43.000Z",
             "content_html": "<p>没啥意义，终于弄完了</p>\n",
             "tags": [
+                "daily",
                 "daily"
             ]
         },
